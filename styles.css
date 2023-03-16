@@ -1,0 +1,19 @@
+.sidebar {
+  width: 30%;
+  float: left;
+  border: 20px solid black;
+  padding: 5px;
+  background-color: red;
+}
+
+.info {
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
+  background-color: orange;
+}
+
+.lorem {
+margin: 10 px;
+border: 10px solid black;
+}
